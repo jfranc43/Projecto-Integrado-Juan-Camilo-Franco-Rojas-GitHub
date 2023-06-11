@@ -1,9 +1,8 @@
 Buenos dias, Decencriptar el archivo winrar denominado "Projecto Integrado Juan Camilo Franco Rojas GitHub" es alli donde estan los siguientes archivos
 El codigo esta por fuera pero la base de datos esta en el archivo Winrar 
 
-Ejecuté el código en Google Colab, aprovechando la versión Pro. Existen dos bases de datos; la primera es una base de datos de prueba denominada "TEST Database", la cual contiene 197 documentos. Si no cuentas con la versión Pro de Colab, te recomendaría utilizar esta base de datos para facilitar el proceso.
+Ejecuté el código en Google Colab, aprovechando la versión Pro. Existen dos bases de datos; la primera es una base de datos de prueba denominada "TEST Database", la cual contiene 197 documentos. Por restricciones de GitHub no puedo subir la base de datos de 19 mil documentos
 
-La segunda base de datos se llama "Definitive Database". Como su nombre lo indica, es la base de datos oficial y contiene alrededor de 19 mil documentos.
 
 Además, dentro del codigo esta la opción de ejecutar una parte del código que utiliza el diccionario de Loughran-McDonald_MasterDictionary_1993-2021. Esta es una opción completamente opcional. Si decides hacerlo, tendrías que leer el diccionario. Encontrarás el código necesario para hacerlo en la carpeta con el nombre "Loughran-McDonald_MasterDictionary_1993-2021".
 
